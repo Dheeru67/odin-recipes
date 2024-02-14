@@ -1,2 +1,2 @@
 # odin-recipes
-Just a learning phase might delete it later 
+Just in a learning phase might delete it later 
